@@ -1,16 +1,16 @@
-### Hi there 👋
+# :ocean: Hello Universe
 
-<!--
-**middleverse/middleverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I love to create & I adhere to these principles:
 
-Here are some ideas to get you started:
+:basketball: Simplicity is the major key.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:basketball: Leave nothing unfinished.  
+
+:basketball: Create & learn daily.  
+
+:basketball: Let your intuition guide you.  
+
+:basketball: Build with purpose.  
+
+:dolphin: It's okay to break a rule or two, but make it an uncommon ocurrence.
+
