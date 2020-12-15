@@ -2,9 +2,9 @@
 
 ### I love to create & I adhere to these principles:
 
-:basketball: Simplicity is the major key.  
+:snake: Simplicity is the major key.  
 
-:basketball: Leave nothing unfinished.  
+:tropical_fish: Leave nothing unfinished.  
 
 :basketball: Create & learn daily.  
 
@@ -12,5 +12,5 @@
 
 :basketball: Build with purpose.  
 
-:dolphin: It's okay to break a rule or two, but make it an uncommon ocurrence.
+:cactus: It's okay to break a rule or two, but make it an uncommon ocurrence.
 
