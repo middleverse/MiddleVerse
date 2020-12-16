@@ -4,12 +4,12 @@ I'm a Software Engineer with expertise in Web Development. Python is my current 
 
 ### I love to build & I adhere to these principles:
 
-:balloon: Simplicity is the major key.  
+:balloon: Keep it simple.  
 
 :balloon: Create & learn daily.  
 
-:balloon: Let your intuition guide you.  
-
 :balloon: Build with purpose.  
+
+:balloon: Let your intuition guide you.  
 
 :balloon: Leave nothing unfinished.  
