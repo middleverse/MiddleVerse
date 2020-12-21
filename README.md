@@ -1,6 +1,6 @@
 # :ocean: Hello Universe
 
-I'm a Computer Scientist with expertise in Web Development. I write mostly in Python, and my current topics of interest include Web Architecture, Distributed Systems, Asynchronous Applications and Test Driven Development.
+I'm a Computer Scientist with expertise in Web Development. I write mostly in Python, and my current topics of interest include Django, REST APIs, Architecture Design, Distributed Systems, Asynchronous Applications, & more.
 
 ### I love to build & I adhere to these principles:
 
@@ -10,6 +10,6 @@ I'm a Computer Scientist with expertise in Web Development. I write mostly in Py
 
 :balloon: Build with purpose.  
 
-:balloon: Let your intuition guide you.  
+:balloon: Carve your own path.  
 
 :balloon: Leave nothing unfinished.  
