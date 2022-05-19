@@ -1,3 +1,5 @@
-# :ocean: Hello Universe
+# :ocean: Hi.
 
-I'm a Node.js developer and I enjoy learning more about Web3.0. 
+TS, Node.js, backend stuff.
+
+Interested in everything, focusing on a few.
